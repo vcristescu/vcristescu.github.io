@@ -1,0 +1,119 @@
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		  <title>Vasile Cristescu's Homepage</title>
+			  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+			  <meta name="author" content="Vasile Cristescu" />
+			  <meta name="copyright" content="&copy; Vasile Cristescu" />
+			  <meta name="keywords" content="Vasile Cristescu" />
+			  <meta name="generator" content="vim" />
+			  <link rel="stylesheet" href="default.css" />
+	</head>
+	<body>
+	<!--	<body background="./shaded.gif"> -->
+		<div class="color">
+			  <table width="100%">
+			  <tbody>
+				  <tr>
+						  <td rowspan="1" colspan="1">
+                                                          <div align="left">
+                                                                  <img src="images/vasile_cristescu.jpg" alt="Vasile Cristescu" />
+                                                          </div>
+                                                  </td>
+						  <td rowspan="1" colspan="1">
+							  <h2 class="small">Vasile Cristescu - Homepage</h2>
+							<em>"UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity."</em> (Dennis Ritchie)
+						  </td>
+				</tr>
+			   </tbody>
+		   </table>
+	</div>
+		   <hr />
+		   <p>
+		   <a href="http://validator.w3.org/check?uri=referer" target="_blank"><img border="0" src="images/vxhtml10.png" alt="Valid XHTML 1.0!" height="31" width="88" /></a> 
+		   <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://vasile.cristescu.org/default.css" target="_blank"><img border="0" width="88" height="31" src="images/vcss.png" alt="Valid CSS!" /></a>
+		   <a href="http://www.catb.org/hacker-emblem/" target="_blank"><img src="images/hacker.png" border="0" width="33" height="33" alt="hacker emblem" /></a>
+		   </p>
+		   <hr />
+			<table cellpadding="0" cellspacing="0" border="0" style="width:100%">
+				<tbody>
+				<tr>
+					<td>
+						<h2>About me:</h2>
+							<ul>
+								<li>I'm 30 years old and I work as a Network Support Engineer.</li>
+								<li>I use <a href="http://freebsd.org" target="_blank">FreeBSD</a> on my servers, laptop and workstations for more than 7 years (I also play with Gentoo, OpenBSD and Solaris).</li>
+				   				<li>I use Cisco devices (routers/switches/access points etc) thus recently I started playing with Juniper emulators (who knows ..).</li>
+								<li>I climb mountains <a href="http://www.carpati.org/" target="_blank">with some of these guys</a> and play chess on my spare time.</li>
+								<li>I enjoy beer .. (who doesn't?) and the best place to find good beer in Bucharest is <a href="http://www.zeppelinpub.ro" target="_blank" title="Zeppelin Pub - Rock, jaz, London Pride" >Zeppelin Pub</a></li>
+				   				<li>If you want to contact me just send an email to <a href="mailto:vasile@cristescu.org">vasile@cristescu.org</a> (SpamAssassin + pf + spamd said it's OK to make it public).</li>
+						</ul>
+						 <h2>Certifications / Trainings:</h2>
+							 <ul>
+		                                                <li><a href="certs/juniper/JNCIA-Junos.pdf" title="JNCIA-Junos" target="_blank">JNCIA-Junos</a> </li>
+		                                                <li><a href="certs/ccna/600151720_certificate.pdf" title="Cisco Certified Network Associate Security" target="_blank">CCNA Security</a></li>
+							        <li><a href="certs/ccna/600151721_certificate.pdf" title="Cisco Certified Network Associate Routing &amp; Switching" target="_blank">CCNA Routing &amp; Switching</a></li>
+							        <li><a href="certs/cnss/9838696_certificate.pdf" title="CNSS 4011 Recognition" target="_blank">CNSS 4011 Recognition</a></li>
+							        <li><a href="certs/linux/2013-04-29_Vasile_CRISTESCU_iolinuxs01_aga.pdf" title="Linux Server Administration" target="_blank">Linux Server Administration</a></li>
+								<li><a href="certs/linux/2013-04-08_Vasile_CRISTESCU_iolinuxb01_vc.pdf" title="Linux Basic Administration" target="_blank">Linux Basic Administration</a></li>
+								<li><a href="certs/brainbench/NetworkTechSupport.pdf" title="Network Tech Support" target="_blank">Network Tech Support</a> </li>
+								<li><a href="certs/brainbench/CiscoNetworkSupport.pdf" title="Cisco Network Support" target="_blank">Cisco Network Support</a> </li>
+								<li><a href="certs/brainbench/LinuxAdministrationRHEL.pdf" title="Linux Administration (RHEL 6)" target="_blank">Linux Administration (RHEL 6)</a> </li>
+								<li><a href="certs/cisco/116875759.1.5.en_US.354540.130497.pdf" title="Introduction to Cybersecurity" target="_blank">Introduction to Cybersecurity</a></li>
+								<li><a href="certs/six-sigma/TraCorp_Course_Launcher.pdf" title="Six Sigma Fundamentals" target="_blank" >Six Sigma Fundamentals</a></li>
+								<li><a href="certs/human_factors/Human_Factors.pdf" title="Understanding Human Factors" target="_blank" >Understanding Human Factors</a></li>
+								<li><a href="certs/integrity/Leading_With_Integrity_Conflict_of_Interest.pdf" title="Leading With Integrity - Conflict of Interest" target="_blank" >Leading With Integrity - Conflict of Interest</a></li>
+					                 </ul>
+						<h2>Links:</h2>
+						<ul>
+							<li><a href="http://picasaweb.google.com/v.cristescu" target="_blank">Photo gallery</a> (contains photos from my trips)</li>
+							<li><a href="http://filosofia.obiectuala.ro/" target="_blank">Objectual philosophy</a> (English and Romanian versions)</li>
+							<li><a href="http://simonaopris.com/" title="Paper Flowers by Simona" target="_blank">Paper Flowers</a> By Simona</li>
+							<li><a href="http://catalina.cristescu.org" target="_blank">Catalina's photo gallery</a> (quality photography)</li>
+							<li>My <a href="http://twitter.com/vcristescu" title="Twitter @vcristescu" target="_blank">Twitter</a> and <a href="http://www.linkedin.com/in/vcristescu" title="Linkedin vcristescu" target="_blank">Linkedin</a> accounts</li>
+						        <li><a href="http://vasile.cristescu.org/resume.html" title="Vasile Cristescu resume">My resume</a> (although I don't have any intention to change my perfect job :-) ) </li> 
+						</ul>
+					</td>
+				</tr>
+				</tbody>
+		   	</table>
+		<hr />
+		<table>
+			<tbody>
+					<tr>
+						<td><img src="images/powerlogo.png" width="90" height="36" alt="Powered by FreeBSD" border="1" /></td>
+						<td> 
+							<p><b> , </b></p>					</td>
+						<td>
+									<img src="images/apache.gif.jpg" width="90" height="36" alt="Powered by Apache" border="1" />
+						</td>
+						<td>
+							<p><b>and</b></p>					
+						</td>
+						<td>
+							<img src="images/vim.png" width="90" height="36" alt="Created using VIM" border="1" />					
+						</td>
+				</tr>
+			</tbody>
+		</table>
+		<hr />
+			<script type="text/javascript">
+					  var _gaq = _gaq || [];
+					  _gaq.push(['_setAccount', 'UA-36165508-1']);
+					  _gaq.push(['_trackPageview']);
+
+					  (function() {
+					    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					  })();
+
+			</script>
+		<div align="center" class="color">
+			<p>
+				<b>Copyright &copy; Vasile Cristescu. All rights reserved.</b>
+			</p>
+		</div>
+	</body>
+	</html>
